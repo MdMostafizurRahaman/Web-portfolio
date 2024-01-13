@@ -18,15 +18,15 @@ h2{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 70%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
-    padding-bottom: 100px;
+    height: 100px;
+    padding-bottom: 00px;
 }
 .link-button{
     text-decoration: none;
